@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mike-Sells
-- 👀 I’m interested in C++, Java, Games Development
-- 🌱 I’m currently learning: the CODAL environment for micro:bit
+- 👀 I’m interested in C++, Java, Modelling
+- 🌱 I’m currently learning: ARM assembly
 - 📫 How to reach me: michael.sells.06@gmail.com
 - 😄 Pronouns: he/him
 
